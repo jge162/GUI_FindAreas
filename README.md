@@ -4,6 +4,7 @@ Still working on it, but just adjust window size with mouse
 ![Total Files](https://img.shields.io/github/directory-file-count/jge162/GUI_App_findareas?color=4078c0&style=for-the-badge)
 ![File Size](https://img.shields.io/github/repo-size/jge162/GUI_App_findareas?color=4078c0&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/jge162/GUI_App_findareas?color=4078c0&style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/jge162/GUI_App_findareas?style=flat-square)
 
 
 # screen shot below:
