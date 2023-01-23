@@ -1,5 +1,5 @@
 # Kivy_gui_app_find_areas
-still working on it, but just adjust window size with mouse 
+Still working on it, but just adjust window size with mouse 
 
 ![Total Files](https://img.shields.io/github/directory-file-count/jge162/GUI_App_findareas?color=4078c0&style=for-the-badge)
 ![File Size](https://img.shields.io/github/repo-size/jge162/GUI_App_findareas?color=4078c0&style=for-the-badge)
